@@ -1,0 +1,20 @@
+{
+    "name": "arjunacoding/bedigas",
+    "description": "Bedigas is a fast, simple, extensible framework for PHP. Bedigas enables you to quickly and easily build RESTful web applications.",
+    "homepage": "http://bedigasphp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Cao",
+            "email": "arjuna@arjunacoding.com",
+            "homepage": "http://www.arjunacoding.com/",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [ "bedigas/autoload.php", "bedigas/Bedigas.php" ]
+    }
+}
